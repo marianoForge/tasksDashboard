@@ -4,13 +4,13 @@ import "firebase/auth";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCdmm044uRp9sZaRHkV-RJ2wfF7Z4SqHbg",
-  authDomain: "forgeplanapp.firebaseapp.com",
-  databaseURL: "https://forgeplanapp.firebaseio.com",
-  projectId: "forgeplanapp",
-  storageBucket: "forgeplanapp.appspot.com",
-  messagingSenderId: "688492648216",
-  appId: "1:688492648216:web:54070dd17cc8c27f0a706d",
+  apiKey: "YOUR INFO",
+  authDomain: "YOUR INFO",
+  databaseURL: "YOUR INFO",
+  projectId: "YOUR INFO",
+  storageBucket: "YOUR INFO",
+  messagingSenderId: "YOUR INFO",
+  appId: "YOUR INFO",
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
