@@ -4,7 +4,7 @@ Techs:
   - ReactJS
   - Firebase
   
- Dependencies:
+ Dependencies Installed:
   - redux
     - createStore
     - applyMiddleware
@@ -12,5 +12,14 @@ Techs:
   - react-router-dom
   - react-redux
     - Provider
+    - useSelector
   - redux-thunk
     - thunk
+  - redux-firestore
+   - createFirestoreInstance
+   - getFirestore
+   - reduxFirestore
+  - react-redux-firebase
+    - ReactReduxFirebaseProvider
+    - getFirebase
+    - isLoaded
