@@ -43,3 +43,4 @@ Techs:
     
   - moment
   
+  IMPORTANT: Remember to edit fbConfig.js with your information.
