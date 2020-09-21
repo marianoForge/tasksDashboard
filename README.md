@@ -6,11 +6,14 @@ Techs:
   - ReactJS
   - Firebase
   
+  
  Dependencies Installed:
+ 
   - redux
     - createStore
     - applyMiddleware
     - compose
+    
   - react-router-dom
     - redirect
     - Link
@@ -18,20 +21,25 @@ Techs:
     - BrowserRouter
     - Switch
     - Route
+    
   - react-redux
     - Provider
     - useSelector
     - connect
+    
   - redux-thunk
     - thunk
+    
   - redux-firestore
    - createFirestoreInstance
    - getFirestore
    - reduxFirestore
+   
   - react-redux-firebase
     - ReactReduxFirebaseProvider
     - getFirebase
     - isLoaded
     - firestoreConnect
+    
   - moment
   
