@@ -1,4 +1,6 @@
-Tasks Dashboard
+Tasks Dashboard 
+
+Made with React (Redux) and Firebase(Firestore, Authentication, Hosting, Functions)
 
 Techs: 
   - ReactJS
