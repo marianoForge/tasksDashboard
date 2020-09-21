@@ -10,9 +10,16 @@ Techs:
     - applyMiddleware
     - compose
   - react-router-dom
+    - redirect
+    - Link
+    - NavLink
+    - BrowserRouter
+    - Switch
+    - Route
   - react-redux
     - Provider
     - useSelector
+    - connect
   - redux-thunk
     - thunk
   - redux-firestore
@@ -23,3 +30,6 @@ Techs:
     - ReactReduxFirebaseProvider
     - getFirebase
     - isLoaded
+    - firestoreConnect
+  - moment
+  
